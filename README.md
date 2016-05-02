@@ -1,5 +1,5 @@
 # Continous Delivery Demo
-[![Build Status](https://travis-ci.org/holisticon/continous-delivery-demo.svg?branch=master)](https://travis-ci.org/holisticon/continous-delivery-demo) [![Build Status](https://server.holisticon.de/jenkins/buildStatus/icon?job=Public/ContinousDelivery_BranchDemo/alpha)](https://server.holisticon.de/jenkins/job/Public/ContinousDelivery_BranchDemo/alpha)
+[![Build Status](https://travis-ci.org/holisticon/continous-delivery-demo.svg?branch=master)](https://travis-ci.org/holisticon/continous-delivery-demo) [![Build Status](https://server.holisticon.de/jenkins/buildStatus/icon?job=Public/ContinousDelivery_BranchDemo/alpha)](https://server.holisticon.de/jenkins/job/Public/job/ContinousDelivery_BranchDemo/branch/alpha/)
 ## Development-Setup
 
 ### Setup
